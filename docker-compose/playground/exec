@@ -1,0 +1,3 @@
+#!/bin/sh
+
+echo '{ "success": "PHP got executed.", "data": "$result" }'
